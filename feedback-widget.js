@@ -1,4 +1,5 @@
 // feedback-widget.js
+console.log('Feedback script is running');
 
 // Inject the HTML structure for the feedback widget
 document.addEventListener('DOMContentLoaded', function() {
